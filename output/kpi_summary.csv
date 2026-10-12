@@ -1,0 +1,14 @@
+metric,value
+Total customers,21.0
+Churned customers,6.0
+Churn rate (%),28.57
+Retention rate (%),71.43
+Average tenure (days; valid dates),1028.71
+Monthly contract churn rate (%),55.56
+Annual contract churn rate (%),8.33
+Customers with complaints,7.0
+Total support interactions,9.0
+Customers with escalations,5.0
+Total escalated interactions,5.0
+Active high-risk customers (score > 70),0.0
+Active high-risk monthly charges,0.0

@@ -1,0 +1,22 @@
+customerid,name,country,state,gender,dob,interests,subscription_start_date,subscription_type,renewal_date,plan_type,contract_type,cancellation_date,cancellation_reason,monthly_charges,cltv,churn_score,complaint_count,escalation_count,avg_csat_score,latest_complaint_date,is_churned,end_date_for_tenure,tenure_days,tenure_date_issue,churn_month,risk_tier,revenue_at_risk
+0002-ORFBO,keshav,India,Maharashtra,Male,1982-04-12,travel,2021-03-15,Refferal,2025-03-15,Standard,Annual,,,13.99,627,12,0,0,,,False,2024-09-30,1295,False,,Low,0.0
+0003-MKNFE,raghav,India,Karnataka,Male,1995-11-23,,2020-08-01,Paid,2024-08-01,Premium,Annual,2024-09-10,Switched to competitor,12.99,1150,91,2,1,35.0,2024-08-28,True,2024-09-10,1501,False,2024-09,High,0.0
+0004-TLHLJ,lalita,India,Delhi,Female,1978-02-15,movie,2022-11-20,Organic,2025-11-20,Basic,Monthly,,,6.99,210,34,0,0,,,False,2024-09-30,680,False,,Low,0.0
+0011-IGKFF,mohan,India,Nagaland,Male,2001-08-30,,2019-05-10,Paid,2025-05-10,Premium,Annual,,,22.99,1725,8,0,0,,,False,2024-09-30,1970,False,,Low,0.0
+0013-EXCHZ,mira,India,Delhi,Female,1990-05-05,drama,2023-01-05,Refferal,2024-01-05,Standard,Monthly,2024-02-28,Too expensive,13.99,195,88,1,1,20.0,2024-01-20,True,2024-02-28,419,False,2024-02,High,0.0
+0013-MHZWF,durga,Unknown,Delhi,Female,1988-12-10,,2022-06-18,Paid,2025-06-18,Standard,Annual,,,17.99,720,22,1,0,90.0,2025-03-18,False,2024-09-30,835,False,,Low,0.0
+0013-SMEOE,mina,India,Meghalaya,Female,1976-09-21,,2021-09-30,Refferal,2024-09-30,Basic,Monthly,2024-11-15,Not enough content,8.99,230,79,1,0,30.0,2024-11-01,True,2024-11-15,1142,False,2024-11,High,0.0
+0014-BMAQU,madan,India,Rajasthan,Male,1999-03-14,,2020-02-14,Organic,2025-02-14,Premium,Annual,,,22.99,1840,5,0,0,,,False,2024-09-30,1690,False,,Low,0.0
+0015-UOCOJ,maya,Unknown,Kathmandu,Female,1985-07-07,,2023-07-22,Organic,2024-07-22,Standard,Monthly,,,13.99,240,34,0,0,,,False,2024-09-30,436,False,,Low,0.0
+0016-QLJIS,arjun,Nepal,Kathmandu,Male,1993-10-29,,2022-04-03,Organic,2025-04-03,Basic,Annual,,,6.99,335,41,0,0,,,False,2024-09-30,911,False,,Medium,0.0
+0017-DINOC,shiva,India,Maharashtra,Men,1997-01-22,,2021-12-01,Organic,2025-12-01,Premium,Annual,,,22.99,1610,14,0,0,,,False,2024-09-30,1034,False,,Low,0.0
+0017-IUDMW,rangadevi,India,Karnataka,Female,1981-06-18,,2023-03-17,Refferal,2024-03-17,Standard,Monthly,2024-05-01,Poor streaming quality,7.99,270,83,1,1,25.0,2024-04-10,True,2024-05-01,411,False,2024-05,High,0.0
+0018-NYROU,chitra,Unknown,Telangana,Female,2004-12-01,,2020-10-09,Organic,2025-10-09,Standard,Annual,,,13.99,980,19,0,0,,,False,2024-09-30,1452,False,,Low,0.0
+0019-EFAEP,raju,India,Meghalaya,Female,1992-04-25,,2022-08-25,Refferal,2024-08-25,Basic,Monthly,2024-10-31,Switched to competitor,12.99,160,76,1,1,30.0,2024-09-27,True,2024-10-31,798,False,2024-10,High,0.0
+0019-GFNTW,Madhav,India,Uttar Pradesh,Men,1979-11-11,,2019-11-11,Paid,2025-11-11,Premium,Annual,,,92.99,2185,3,0,0,,,False,2024-09-30,1785,False,,Low,0.0
+0020-INWCK,parvati,India,Delhi,Female,1986-02-28,job,2023-05-06,Organic,2025-05-06,Standard,Monthly,,,13.99,640,58,0,0,,,False,2024-09-30,513,False,,Medium,0.0
+0020-JDNXP,rikim,India,Meghalaya,Female,1994-08-19,,2022-01-19,Organic,2024-01-19,Premium,Annual,,,20.99,550,62,0,0,,,False,2024-09-30,985,False,,Medium,0.0
+0021-IKXGC,vishakha,India,Rajasthan,Female,2000-09-02,,2021-07-07,Paid,2025-07-07,Standard,Annual,,,13.99,840,27,0,0,,,False,2024-09-30,1181,False,,Low,0.0
+0022-TCJCI,raghvendra,India,Telangana,Male,1983-12-30,,2023-09-14,Refferal,2024-09-14,Basic,Monthly,2024-09-14,Forgot to cancel trial,16.99,42,99,2,1,50.0,2024-09-14,True,2024-09-14,366,False,2024-09,High,0.0
+0023-HGHWL,rishabh,India,Uttar Pradesh,Men,1991-05-14,,2020-06-23,Organic,2025-06-23,Premium,Annual,,,22.99,1955,7,0,0,,,False,2024-09-30,1560,False,,Low,0.0
+0023-UYUPN,sudevi,India,Maharashtra,Female,1977-10-06,,2022-12-31,Paid,2025-12-31,Standard,Monthly,,,13.99,790,47,0,0,,,False,2024-09-30,639,False,,Medium,0.0

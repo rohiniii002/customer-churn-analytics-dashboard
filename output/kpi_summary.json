@@ -1,0 +1,54 @@
+[
+  {
+    "metric":"Total customers",
+    "value":21.0
+  },
+  {
+    "metric":"Churned customers",
+    "value":6.0
+  },
+  {
+    "metric":"Churn rate (%)",
+    "value":28.57
+  },
+  {
+    "metric":"Retention rate (%)",
+    "value":71.43
+  },
+  {
+    "metric":"Average tenure (days; valid dates)",
+    "value":1028.71
+  },
+  {
+    "metric":"Monthly contract churn rate (%)",
+    "value":55.56
+  },
+  {
+    "metric":"Annual contract churn rate (%)",
+    "value":8.33
+  },
+  {
+    "metric":"Customers with complaints",
+    "value":7.0
+  },
+  {
+    "metric":"Total support interactions",
+    "value":9.0
+  },
+  {
+    "metric":"Customers with escalations",
+    "value":5.0
+  },
+  {
+    "metric":"Total escalated interactions",
+    "value":5.0
+  },
+  {
+    "metric":"Active high-risk customers (score > 70)",
+    "value":0.0
+  },
+  {
+    "metric":"Active high-risk monthly charges",
+    "value":0.0
+  }
+]

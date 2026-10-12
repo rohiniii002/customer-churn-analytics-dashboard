@@ -1,0 +1,17 @@
+{
+  "reporting_snapshot_date": "2024-09-30",
+  "total_customers": 21,
+  "churned_customers": 6,
+  "churn_rate_pct": 28.57,
+  "retention_rate_pct": 71.43,
+  "customers_with_complaints": 7,
+  "customers_with_escalations": 5,
+  "total_escalated_interactions": 5,
+  "active_high_risk_customers": 0,
+  "notes": [
+    "Escalations Y/N were mapped to 1/0.",
+    "Support interactions were aggregated by customer before joining.",
+    "Zero active high-risk customers is the result for this sample if shown above; it is not assumed to be an error.",
+    "The dataset is small and findings should be treated as directional."
+  ]
+}
